@@ -1,2 +1,2 @@
 # keep-auto
-Automates the add collaborator feature of keep.
+Automates the add collaborator feature of Google Keep.
